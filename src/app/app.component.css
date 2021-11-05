@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+ }
+
+ .mat-row:nth-child(even){
+    background-color:white;
+  }
+
+.mat-row:nth-child(odd){
+    background-color:rgb(233, 233, 233)
+}
